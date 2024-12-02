@@ -41,6 +41,15 @@ This project explores and compares various dimensionality reduction techniques, 
 
 ---
 
+## Sample Colab Links
+Here are Colab notebooks to understand and explore dimensionality reduction techniques:
+
+- [Hands-On ML: Dimensionality Reduction](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
+- [Dimensionality Reduction Techniques](https://colab.research.google.com/github/ML-Challenge/week4-unsupervised-learning/blob/master/L3.Decorrelating%20data%20and%20dimension%20reduction.ipynb)
+- [Dimensionality Reduction with Autoencoders](https://colab.research.google.com/drive/1J9hbUkKvl6bM6rEHH7OTZZQlta1PC2dy)
+
+---
+
 ## Results and Comparisons
 - Visualizations include scatter plots, cluster separations, and embedding spaces.
 - Observations highlight the preservation of data structure and clustering effectiveness.
