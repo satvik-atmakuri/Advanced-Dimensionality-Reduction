@@ -38,12 +38,20 @@ This project explores and compares various dimensionality reduction techniques, 
    - Iris Dataset (from Scikit-learn)
 ---
 
-## Sample Colab Links
+## Colab Links
 Here are Colab notebooks to understand and explore dimensionality reduction techniques:
 
 - [Hands-On ML: Dimensionality Reduction Image Data](https://colab.research.google.com/drive/14gkaANyTZD3zUaVyD44n2m-Wgav1k6xm?usp=sharing)
 - [Dimensionality Reduction Techniques on Tabular Data](https://colab.research.google.com/drive/1fVu56sjgW-htJsGcOeT_o4aY93Jf5HR9?usp=sharing)
 - [Dimensionality Reduction with Databricks](https://colab.research.google.com/drive/1CZs-lgKPjoR4u71DN81n-K--M-rkFSky?usp=sharing)
+
+---
+
+## Youtube Links
+Here are youtube links to understand and explore dimensionality reduction techniques:
+
+- [Hands-On ML: Dimensionality Reduction Image Data and Tabular data](https://youtu.be/wbV7O06Ul04)
+- [Dimensionality Reduction with Databricks](https://youtu.be/2OHry7cTuF8)
 
 ---
 
