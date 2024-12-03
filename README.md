@@ -43,7 +43,7 @@ Here are Colab notebooks to understand and explore dimensionality reduction tech
 
 - [Hands-On ML: Dimensionality Reduction Image Data](https://colab.research.google.com/drive/14gkaANyTZD3zUaVyD44n2m-Wgav1k6xm?usp=sharing)
 - [Dimensionality Reduction Techniques on Tabular Data](https://colab.research.google.com/drive/1fVu56sjgW-htJsGcOeT_o4aY93Jf5HR9?usp=sharing)
-- [Dimensionality Reduction with Autoencoders](https://colab.research.google.com/drive/1J9hbUkKvl6bM6rEHH7OTZZQlta1PC2dy)
+- [Dimensionality Reduction with Databricks](https://colab.research.google.com/drive/1CZs-lgKPjoR4u71DN81n-K--M-rkFSky?usp=sharing)
 
 ---
 
